@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @williamgalas-cp
 - 👀 I’m interested in Web technologies
 - 🌱 I’m currently learning Laravel packages development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on laravel & Vuejs
 - 📫 How to reach me - william.galas@coreproc.ph/williamgalas2@gmail.com
 
 <!---
