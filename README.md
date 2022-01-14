@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @williamgalas-cp
-- 👀 I’m interested in Web technologies
-- 🌱 I’m currently learning Laravel packages development
-- 💞️ I’m looking to collaborate on laravel & Vuejs
-- 📫 How to reach me - william.galas@coreproc.ph/williamgalas2@gmail.com
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=williamgalas-cp&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williamgalas-cp&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williamgalas-cp&theme=vue)
+
 
 <!---
 williamgalas-cp/williamgalas-cp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
